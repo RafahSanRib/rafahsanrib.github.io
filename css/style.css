@@ -31,3 +31,10 @@ footer{text-align:center;color:var(--mut);padding:28px 20px;border-top:1px solid
 .mt10{margin-top:10px}.mt12{margin-top:12px}
 .card a.lk{color:var(--ac)}
 nav a.ativo{background:var(--ac);color:#fff}
+.hero .verso{max-width:640px;margin:32px auto 0;padding-top:18px;border-top:1px solid #2c4a6b;font-style:italic;color:#e3edf8}
+.hero .verso span{display:block;margin-top:6px;font-style:normal;font-weight:600;color:#5aa9f5}
+#redes .ic{width:40px;height:40px;border-radius:10px;display:grid;place-items:center;flex:none}
+#redes .ic svg{width:24px;height:24px}
+.ic.yt{background:#f00}.ic.fb{background:#1877f2}.ic.li{background:#0a66c2}
+.ic.ig{background:linear-gradient(45deg,#f9a825,#e1306c 50%,#5b51d8)}
+.soc .card{transition:transform .15s}.soc .card:hover{transform:translateY(-3px)}
